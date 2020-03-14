@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.Container-Button {
+  display: flex;
+}
+
+.Button {
+  background-color: #ffffff;
+  flex: 1;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
